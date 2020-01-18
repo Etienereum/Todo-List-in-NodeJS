@@ -1,0 +1,20 @@
+{
+  "name": "todonodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Etienne Okeke",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7",
+    "morgan": "^1.9.1",
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
